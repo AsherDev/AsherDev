@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsherDev
 - 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning C++ and Web Dev
+- 🌱 I’m currently learning C and Web Dev
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: hyrix59@hotmail.com
 
