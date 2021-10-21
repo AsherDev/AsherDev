@@ -1,4 +1,4 @@
-Hey there, I'm Bryce and I'm a software developer currently doing my bachelor's of Computer Science at University of New England, Australia.
+Hey there, I'm Bryce and I'm a software developer currently doing my bachelor's of Computer Science at UNE in Australia.
 
 <!---
 AsherDev/AsherDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
