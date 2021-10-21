@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AsherDev
-- 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning C and Web Dev
-- 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me: hyrix59@hotmail.com
+Hey there, I'm Bryce and I'm a software developer currently doing my bachelor's of Computer Science at University of New England, Australia.
 
 <!---
 AsherDev/AsherDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
